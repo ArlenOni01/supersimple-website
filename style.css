@@ -84,4 +84,13 @@ footer{
 		font-size: 15px;
 	}
 	
+	.img-video{
+		display: none;
+	}
+	
+	div ul li img{
+		width: 75%;
+		height: 50%;
+	}
+	
 }
